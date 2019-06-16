@@ -1,0 +1,10 @@
+Feature: Send message to the developer validation
+
+  Scenario: Check out button to send message [90m# C:/Users/wormi/IdeaProjects/PocketsCucumberTesting/src/main/java/cucumber/features/Contacts.feature:3[0m
+    [33mGiven [0m[33mI browse to pocketsdeveloper.com[0m
+    [33mThen [0m[33mI parse name[0m
+    [33mThen [0m[33mI parse mail[0m
+    [33mThen [0m[33mI parse subject[0m
+    [33mThen [0m[33mI parse message[0m
+    [33mThen [0m[33mI press button[0m
+    [33mAnd [0m[33mI close my browser[0m
