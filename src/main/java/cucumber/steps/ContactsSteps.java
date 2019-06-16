@@ -67,41 +67,36 @@ public class ContactsSteps {
     public void i_parse_name() throws Throwable {
         contactMe = PageFactory.initElements(driver, ContactMe.class);
         contactMe.nameSendKeys("Mike");
-        throw new PendingException();
+
     }
 
     @Then("^I parse mail$")
     public void i_parse_mail() throws Throwable {
         contactMe = PageFactory.initElements(driver, ContactMe.class);
         contactMe.emailSendKeys("wormike96@gmail.com");
-        throw new PendingException();
     }
 
     @Then("^I parse subject$")
     public void i_parse_subject() throws Throwable {
         contactMe = PageFactory.initElements(driver, ContactMe.class);
         contactMe.subjectSendKeys("just say HI");
-        throw new PendingException();
     }
 
     @Then("^I parse message$")
     public void i_parse_message() throws Throwable {
         contactMe = PageFactory.initElements(driver, ContactMe.class);
         contactMe.messageSendKeys("Hey, can you please LEGIT make me a website or FO?");
-        throw new PendingException();
     }
 
     @Then("^I press button$")
     public void i_press_button() throws Throwable {
         contactMe = PageFactory.initElements(driver, ContactMe.class);
         contactMe.sendMessage();
-        throw new PendingException();
     }
 
     @Then("^I close my browser$")
     public void i_close_my_browser() throws Throwable {
         driver.quit();
-        throw new PendingException();
     }
 
 }

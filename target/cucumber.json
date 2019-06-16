@@ -12,65 +12,86 @@
         "steps": [
           {
             "result": {
-              "status": "undefined"
+              "duration": 5171631800,
+              "status": "passed"
             },
             "line": 5,
             "name": "I browse to pocketsdeveloper.com",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_browse_to_pocketsdeveloper_com()"
+            },
             "keyword": "Given "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 2243830900,
+              "status": "passed"
             },
             "line": 6,
             "name": "I parse name",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_parse_name()"
+            },
             "keyword": "Then "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 2115024700,
+              "status": "passed"
             },
             "line": 7,
             "name": "I parse mail",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_parse_mail()"
+            },
             "keyword": "Then "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 2107528400,
+              "status": "passed"
             },
             "line": 8,
             "name": "I parse subject",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_parse_subject()"
+            },
             "keyword": "Then "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 2396466900,
+              "status": "passed"
             },
             "line": 9,
             "name": "I parse message",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_parse_message()"
+            },
             "keyword": "Then "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 2228562200,
+              "status": "passed"
             },
             "line": 10,
             "name": "I press button",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_press_button()"
+            },
             "keyword": "Then "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 754600200,
+              "status": "passed"
             },
             "line": 11,
             "name": "I close my browser",
-            "match": {},
+            "match": {
+              "location": "ContactsSteps.i_close_my_browser()"
+            },
             "keyword": "And "
           }
         ]
@@ -80,6 +101,6 @@
     "description": "",
     "id": "send-message-to-the-developer-validation",
     "keyword": "Feature",
-    "uri": "C:/Users/wormi/IdeaProjects/PocketsCucumberTesting/src/main/java/cucumber/features/Contacts.feature"
+    "uri": "Contacts.feature"
   }
 ]

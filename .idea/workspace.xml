@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b56ecd-1c5d-4862-8b70-c7a55e674b25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cucumber/features/Contacts.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/features/Contact.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/PocketsCucumberTesting-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/PocketsCucumberTesting-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/PocketsCucumberTesting.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/init/WhichMessage$functionNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/init/WhichMessage$functionNames.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/init/WhichMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/init/WhichMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="183" selection-start-line="7" selection-start-column="183" selection-end-line="7" selection-end-column="183" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+            <state relative-caret-position="274">
+              <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,8 +109,8 @@
         <option value="$PROJECT_DIR$/src/main/java/init/InitClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/init/WhichMessage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/cucumber/features/Contacts.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java" />
       </list>
     </option>
@@ -201,21 +190,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cucumber" type="462c0819:PsiDirectoryNode" />
               <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PocketsCucumberTesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PocketsCucumberTesting" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PocketsCucumberTesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PocketsCucumberTesting" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PocketsCucumberTesting" type="b2602c69:ProjectViewProjectNode" />
@@ -310,9 +284,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PocketsRunner - 2019.06.16 at 15h 50m 47s.xml">
-      <configuration name="PocketsRunner" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PocketsRunner - 2019.06.16 at 15h 56m 39s.xml">
       <configuration name="PocketsRunner" configurationId="TestNG" />
     </history-entry>
@@ -337,9 +308,16 @@
     <history-entry file="PocketsRunner - 2019.06.16 at 16h 30m 24s.xml">
       <configuration name="PocketsRunner" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PocketsRunner - 2019.06.16 at 16h 43m 13s.xml">
+      <configuration name="PocketsRunner" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PocketsRunner - 2019.06.16 at 16h 53m 50s.xml">
+      <configuration name="PocketsRunner" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -350,7 +328,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,18 +346,6 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/features/Homepage/features.java" />
@@ -438,16 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="183" selection-start-line="7" selection-start-column="183" selection-end-line="7" selection-end-column="183" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/features/Contacts.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -457,8 +413,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/steps/ContactsSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        <state relative-caret-position="274">
+          <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/PocketsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
